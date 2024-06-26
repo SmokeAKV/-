@@ -1,0 +1,42 @@
+/****** ANTES DE TUDO ******/
+VOCÊ PRECISA TER INSTALADO:
+MT MANAGER (editor de código)
+
+TERMUX (terminal onde você irá executar o bot por lá)
+
+
+//AVISO: ANTES DE MEXER NO BOT, FALE COM O EEZINN OU MELIODAS
+
+
+COMANDOS BÁSICOS DO TERMUX 🦆👍
+
+
+==============COMEÇO==============
+1° COMANDO:
+termux-setup-storage
+
+
+2° COMANDO
+apt upgrade && apt update && pkg install git && pkg install nodejs
+
+
+3° COMANDO
+pkg install ffmpeg && pkg install wget
+
+
+4° COMANDO
+npm i -g pm2
+
+
+5° COMANDO
+cd storage/downloads/GALINHA-BOT
+
+
+6° COMANDO
+pm2 kill && npm start && node main.js && pm2 monit
+
+OU
+
+sh start.sh
+
+                       (Bot não terminado) :[
